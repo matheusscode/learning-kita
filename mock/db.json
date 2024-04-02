@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "b239f622-1843-4225-bd9f-48c995c7f313",
+      "age": 1,
+      "email": "",
+      "name": ""
+    },
+    {
+      "id": "c8e781e5-58a3-4c54-8e0c-cf9b55c79d84",
+      "age": 36,
+      "email": "rafaelzolo@gmail.com",
+      "name": "Rafael Zolo"
+    }
+  ]
+}
